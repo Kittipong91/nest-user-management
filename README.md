@@ -41,17 +41,19 @@ A robust User Authentication and Profile Management System built with **NestJS**
    cd <project-folder>
 
 2. **Install dependencies**
-   ```npm install
+   ```bash
+   npm install
 
 3. **Set up Environment Variables Create a .env file in the root directory:**
-  - MONGODB_URI=mongodb://localhost:27017/your-db-name
+  - MONGODB_URI=mongodb://root:example@localhost:27017/eterwealth?authSource=admin
   - JWT_SECRET=your_super_secret_key
   - PORT=3000
 
 ## 🚀 Running the App
 
 # Development
-npm run start:dev
+    ```bash
+    npm run start:dev
 
 ## 📖 API Documentation (Swagger)
 - *** Once the server is running, you can access the interactive API documentation at: 👉 *** 
@@ -65,5 +67,9 @@ The application is successfully deployed on **Koyeb**. You can access the live A
 - **📖 Live Swagger UI:** `https://toxic-elisabet-kittipong-fea5c779.koyeb.app/api`
 
 ---
+## 🔐 Admin User
 
+## Test Credentials (Admin Access):
+- ** Username: admin
+- ** Password: @Admin1234
 

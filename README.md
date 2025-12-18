@@ -57,4 +57,13 @@ npm run start:dev
 - *** Once the server is running, you can access the interactive API documentation at: 👉 *** 
 # http://localhost:3000/api
 
+## 🌐 Live Demo & Production
+
+The application is successfully deployed on **Koyeb**. You can access the live API and documentation here:
+
+- **🚀 Production URL:** `https://toxic-elisabet-kittipong-fea5c779.koyeb.app/`
+- **📖 Live Swagger UI:** `https://toxic-elisabet-kittipong-fea5c779.koyeb.app/api`
+
+---
+
 
